@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Halo! Kenalin, Aku Siti Aisyah
 
-<!--
-**aisyahhh15/aisyahhh15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senang banget kamu bisa mampir di sini.**
 
-Here are some ideas to get you started:
+Ini adalah tempat kecil di dunia web yang aku buat, untuk ngasih tahu sedikit tentang diriku — mulai dari siapa aku, apa yang aku suka, sampai hal-hal yang sedang aku pelajari sekarang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🔨 Lagi Ngulik Apa Sekarang?
+
+Aku mahasiswi ITK yang lagi nyoba jadi "tukang cat" di dunia web. Saat ini,
+    
+### 🆘 Butuh Bantuan / Saran
+
+* Kalau kamu punya trik rahasia biar CSS *center* (menengahkan elemen) ga ribet, **spill** dong! Ilmu mahal nih.
+* *Feel free* buat lihat-lihat kodeku. Kalau ada yang aneh atau ada cara yang lebih baik, kasih tau ya! **Feedback sangat diterima!**
+
+
+> *Motto Ngodingku: "Hidup itu penuh warna, CSS-ku jangan cuma hitam putih!"*
